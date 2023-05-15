@@ -1,0 +1,42 @@
+body{
+    font-family: 'Ubuntu Mono', monospace;
+    background-color: #8DCBE6;
+}
+.container{
+    text-align: center;
+}
+
+.center{
+    margin: auto;
+    width: 50%;
+}
+.dice{
+    margin: auto;
+    display: inline-table;
+}
+
+#player1{
+    margin: 20px;
+    position: relative;
+  
+}
+#player2{
+    margin: 20px;
+    position: relative;
+    
+}
+p{
+    text-align: center;
+    font-size: large;
+    color: #7286D3;
+}
+footer{
+    position: absolute;
+    margin: auto;
+    bottom: 0%;
+    width: 100%;
+    font-size: 25px;
+
+    color:#A555EC;
+    text-align: center;
+}
